@@ -52,6 +52,7 @@ a:hover {
 
 .profile-img {
   border-radius: 100%;
+  transition: 0.7s ease;
 }
 
 .profile-img:hover {
